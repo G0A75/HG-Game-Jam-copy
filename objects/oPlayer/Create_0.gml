@@ -15,3 +15,9 @@ jumpCount = 0;
 
 jumpHoldFrames = 15;
 jumpTimer = 0;
+
+direction=1;
+sprite_index=sPlayerIdle;
+onGroundPrev=false;
+
+gun_frame=0;
